@@ -167,8 +167,15 @@ Este projeto é apenas para fins educacionais.
 
 ## 👨‍💻 Autor
 
-Alexandre Ribeiro
+**Alexandre Ribeiro**
+
+*Software & Data Engineer | Especialista em Inteligência Artificial, Visão Computacional e Ciência de Dados | +20 anos transformando tecnologia em resultados.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-alexandresillva-181717?logo=github)](https://github.com/alexandresillva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexandre%20Silva%20Ribeiro-0077B5?logo=linkedin)](https://www.linkedin.com/in/alexandre-silva-ribeiro/)
 
 ---
 
-Feito com ❤️ durante o estudo na DIO
+⭐ Se este projeto te ajudou, considere dar uma estrela!
+
+Desenvolvido com ❤️ durante o bootcamp da [DIO](https://www.dio.me/)
